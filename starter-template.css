@@ -35,3 +35,24 @@ h3 {
 body     {
     background-color: #F6F6F7;
 }
+.btn-primary   {
+    margin-right: 173px;
+    margin-left: 15px;
+    margin-top: 30px;
+    background-color: #F6F6F7;
+    color: #395A7B;
+    font: "Helvetica";
+    font-size: 12px;
+}
+
+img {
+    float: right;
+}
+
+footer > ul > li  {
+    color: darkgrey;
+    font: "Helvetica";
+    font-size: 11px;
+    margin-top: 80px;
+    text-align: center;
+}
