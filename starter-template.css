@@ -5,8 +5,8 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
-.navbar-right   {
-    margin-right: -60px ;
+.button-right   {
+    margin: auto;
 }
 .navbar {
     height: 100px;
@@ -48,7 +48,7 @@ body     {
 }
 
 img {
-    float: right;
+    margin: auto;
 }
 
 footer > ul > li  {
@@ -61,4 +61,20 @@ footer > ul > li  {
 
 .inactif {
     opacity: 0.5;
+}
+
+.jumbo  {
+    margin-top: 50px;
+    background-color: rgb(57,91,121);
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h2  {
+    font:"Helvetica";
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    padding-top: 16px;
 }
