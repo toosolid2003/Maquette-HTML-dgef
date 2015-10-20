@@ -1,17 +1,11 @@
-body {
-  padding-top: 50px;
-}
-.starter-template {
-  padding: 40px 15px;
-  text-align: center;
-}
-.button-right   {
-    margin: auto;
-}
 .navbar {
     height: 100px;
     background-color: white;
     border-color: white;
+}
+
+.navbar-right   {
+    margin-right: 3px;
 }
 .entree {
     margin-top: 50px;
@@ -31,16 +25,13 @@ h3 {
     font-size: 12px;
     font-weight: 200;
     color: #395A7B;
-    margin-top: 131px;
+    margin-top: 70px;
 }
 
 body     {
     background-color: #F6F6F7;
 }
 .btn-primary   {
-    margin-right: 173px;
-/*    margin-left: 15px;*/
-    margin-top: 30px;
     background-color: #F6F6F7;
     color: #395A7B;
     font: "Helvetica";
@@ -48,7 +39,9 @@ body     {
 }
 
 img {
-    margin: auto;
+    margin-left: 396px;
+    max-width: 22%;
+    margin-top: -10px;
 }
 
 footer > ul > li  {
@@ -64,11 +57,9 @@ footer > ul > li  {
 }
 
 .jumbo  {
-    margin-top: 50px;
     background-color: rgb(57,91,121);
     height: 60px;
-    text-align: center;
-    vertical-align: middle;
+    margin-top: -40px;
 }
 
 h2  {
